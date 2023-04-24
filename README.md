@@ -11,3 +11,5 @@ Unfortunately, the final Excel file is too large to display on GitHub, but don't
 Check out my dashboard to see how I organized the data and visualized my findings. If you're interested in digging deeper, you can also download the [data files](https://divvy-tripdata.s3.amazonaws.com/index.html) in .zip format.
 
 Overall, I'm thrilled with what I've accomplished with this project, and I hope my insights can help the bike share company improve their offerings and attract more members.
+
+## Findings
