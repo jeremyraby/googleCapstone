@@ -1,9 +1,5 @@
 # README
 
-This project is the final capstone for the Google Data Analytics Professional certificate.
+## About
 
-[Here](https://1drv.ms/x/s!AnHkLfM3SO3zgX9aSz-wBZrWK2dG?e=ZEIOn2) is the link to file and dashboard.
-
-Screenshots of part of the data and the dashboard are available in the repo.
-
-The datafiles are available [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
+This project is the capstone for the Google Data Analytics Professional certificate. The purpose of the project is to determine how casual riders of a bike share company use the bikes and app differently from how annual members use it, with the ultimate goal "of the marketing team" being conversion of casual riders to members. I wanted to practice using Excel for this project and really feel that I've learned a lot about how to utilize the software, as well as it's limitations. The final form of the Excel portion is too large of a file to be saved to GitHub, so I've instead saved it to [OneDrive](https://1drv.ms/x/s!AnHkLfM3SO3zgX9aSz-wBZrWK2dG?e=ZEIOn2) (note:it's also too large to be displayed on the web client, so you'll have to download it to see the actual file). Since the file is so large, I've added screenshots of the dashboard and work here: [dashboard](https://github.com/jeremyraby/googleCapstone/blob/main/cyclisticDashboardThumnail.jpg) [spreadsheet](https://github.com/jeremyraby/googleCapstone/blob/main/cyclisticSummaryScreenshot.jpg) The actual datafiles are available [here](https://divvy-tripdata.s3.amazonaws.com/index.html) as .zip files.
