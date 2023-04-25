@@ -13,3 +13,9 @@ Check out my dashboard to see how I organized the data and visualized my finding
 Overall, I'm thrilled with what I've accomplished with this project, and I hope my insights can help the bike share company improve their offerings and attract more members.
 
 ## Findings
+
+After analyzing the data from 2022, I found that casual riders tend to take longer rides than annual members, with an average ride time of 28:10 compared to 12:20 seconds for annual members. However, annual members are more consistent in their usage of the service.
+
+When it comes to the busiest months, June through September take the cake. And if you're wondering which day of the week is the busiest, it's Thursday! But that's not the whole story. Saturday is the busiest day for casual riders, while Thursday is the busiest day for annual members.
+
+And what kind of bikes are people riding? Electric bikes are the most popular choice among both casual riders and members.
